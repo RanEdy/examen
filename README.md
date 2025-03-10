@@ -3,5 +3,5 @@
 - Erandi
 - Jose Angel
 - Xavier
-- Luis Enrique
+- Jose Enrique
 - Luis Eduardo
